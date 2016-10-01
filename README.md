@@ -1,6 +1,6 @@
 # libExtAPI
 A library for accessing V-REP's external API.
-This comes as part of the V-REP distribution and is licenced under the GPL (see the `LICENSE` file for details).
+This comes as part of the V-REP distribution (http://www.v-rep.eu) and is licenced under the GPL (see the `LICENSE` file for details).
 
 ## Compiling and Installing
 
