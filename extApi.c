@@ -2075,6 +2075,7 @@ SIMX_THREAD_RET_TYPE _communicationThread(simxVoid* p)
     }
     _communicationThreadRunning[clientID]=1; /* to indicate to the main thread that we just left */
     SIMX_THREAD_RET_LINE;
+    (void)p;
 }
 
 simxUShort _getCRC(const simxUChar* data,simxInt length)
